@@ -1424,6 +1424,9 @@ Seção 8: Criando e Conectando Microsserviços com Feign
 	PS C:\Users\Pedro Henrique> docker logs -f 90             	
 	
 	
+	docker container stop <id> ou <nome>
+	
+	
 	- Retomada
 	
 	
